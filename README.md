@@ -150,3 +150,7 @@ Tujuan: Menghubungkan ketiga komponen (Data, View, dan Process) menjadi satu alu
 Fungsi: Menjalankan perulangan menu (looping) sehingga pengguna dapat terus menambah atau melihat data sampai memilih untuk keluar.
 
 ## Output pemerograman python
+
+<img src="output/bagian1.png" />
+<img src="output/bagian2.png"/>
+
