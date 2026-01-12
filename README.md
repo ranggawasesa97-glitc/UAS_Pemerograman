@@ -12,7 +12,7 @@ Program dibagi menjadi beberapa modul untuk memenuhi syarat arsitektur modular:
 
 ## Dokumentasi & Demo
 Berikut adalah tautan untuk melihat penjelasan proses pembuatan dan demo jalannya program:
-* **Link Video YouTube**: https://youtu.be/AxdhdIiNMsw
+* **Link Video YouTube**: [https://youtu.be/AxdhdIiNMsw](https://youtu.be/AxdhdIiNMsw?si=a1xAhVNMeZ4jmw_n)
     
 ## pemerograman Python
 
