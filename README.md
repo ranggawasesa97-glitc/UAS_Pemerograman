@@ -5,14 +5,14 @@ Proyek ini dibuat untuk memenuhi tugas Ujian Akhir Semester pada mata kuliah Bah
 
 ## Struktur File
 Program dibagi menjadi beberapa modul untuk memenuhi syarat arsitektur modular:
-1. `data.py`: Berisi Class Data untuk menyimpan struktur list/database[cite: 4].
+1. `data.py`: Berisi Class Data untuk menyimpan struktur list/database.
 2. `process.py`: Berisi Class Process untuk logika validasi dan pengolahan data.
 3. `view.py`: Berisi Class View untuk menangani input user dan tampilan tabel.
 4. `main.py`: File utama untuk menjalankan program.
 
 ## Dokumentasi & Demo
 Berikut adalah tautan untuk melihat penjelasan proses pembuatan dan demo jalannya program:
-* **Link Video YouTube**: 
+* **Link Video YouTube**: https://youtu.be/AxdhdIiNMsw
     
 ## pemerograman Python
 
